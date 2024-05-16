@@ -1,0 +1,39 @@
+1. Loop through given URLS 
+
+2. Scarpe setp to get html 
+
+3. Extract domain from given URL
+
+4. Find domain name in Json file 
+
+5. Get title and brand selctor 
+
+6. Extarct title and brand value from Html 
+
+7. save the result in json format 
+
+Outpurt Json: 
+{
+    "Tile": "value" ,
+    "brand":"value" ,
+    "Url":"value" 
+},
+{
+
+    "Tile": "value" ,
+    "brand":"value" ,
+    "Url":"value" 
+}
+
+Select Json: 
+{
+    "tile": "kzv0b81yc_6112 _1yimfeh6_6112 _1yimfehd_6112 _1yimfehj_6112" ,
+    "brand":"_1s36b7e0_6112 _1s36b7e3_6112 _1s36b7e8_6112" ,
+    "Url":"https://www.wayfair.com/furniture/pdp/lark-manor-allivia-tv-stand-for-tvs-up-to-75-w008811911.html?piid=4265" 
+},
+{
+
+    "tile": "Selector" ,
+    "brand":"Selector" ,
+    "Url":"url" 
+}

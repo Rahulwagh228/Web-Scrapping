@@ -1,0 +1,15 @@
+color
+collectionName
+brandName
+sku
+species
+style
+grade
+width
+length
+thickness
+finish
+construction
+installation
+residentialWarranty
+coverage

@@ -1,0 +1,40 @@
+[
+    {
+        "authority": "www.awaytravel.com",
+        "title_selector": {
+          "tag": "div",
+          "class": "buy_box_head_titleBox__fWKJi"
+        },
+        "brand" : {
+          "tag":"",
+          "class" : ""
+        }
+  
+    },
+    {
+        "authority": "www.nike.com",
+        "title_selector": {
+          "tag": "h1",
+          "class": "pdp_product_title"
+        },
+        "brand" : {
+          "tag":"",
+          "class" : ""
+        }
+  
+    },
+    {
+        "authority": "www.ulta.com",
+        "title_selector": {
+          "tag": "span",
+          "class": "Text-ds Text-ds--title-5 Text-ds--left"
+        },
+        "brand" : {
+          "tag":"span",
+          "class" : "Text-ds Text-ds--body-1 Text-ds--left"
+        }
+  
+    }
+ 
+
+]
